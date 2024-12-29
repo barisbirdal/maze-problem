@@ -1,2 +1,2 @@
-# maze-problem
+# maze-problem(python)
 Maze problem solver
